@@ -22,8 +22,8 @@ Future work on the app will focus on determining exact location of affected loca
 
 Demonstration:
 
-![screenshot](screenshot/Quer ser.JPG)
+![screenshots](screenshots/Quer ser.JPG)
 
-![screenshot](hos rest.JPG)
+![screenshots](screenshots/hos rest.JPG)
 
-![screenshot](hos results.JPG)
+![screenshots](screenshots/hos results.JPG)
