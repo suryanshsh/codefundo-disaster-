@@ -20,3 +20,5 @@ The app is an idea to help people during the time of crisis and use the thousand
 Future work on the app will focus on determining exact location of affected location and their intensity so that the authorities can facilitate rescue operations in a better way.It will also not only tell about the nearby hospitals but also direct towards them while guiding away from the epicenter of the calamity.
 
 **REFER SCREENSHOTS FOLDER FOR DEMONSTRATION OF THE APP**
+
+For live working app visit: teamphoenincs.pythonanywhere.com
