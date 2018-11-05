@@ -21,4 +21,4 @@ Future work on the app will focus on determining exact location of affected loca
 
 **REFER SCREENSHOTS FOLDER FOR DEMONSTRATION OF THE APP**
 
-For live working app visit: teamphoenincs.pythonanywhere.com
+For live working app visit: teamphoeninc.pythonanywhere.com
