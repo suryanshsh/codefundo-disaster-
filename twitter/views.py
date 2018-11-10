@@ -23,10 +23,10 @@ from django.http import HttpResponse
 class TwitterAnalysis(object):
 
     def __init__(self):
-        consumer_key = "wCWAR5aEzbwbNPSqYtAXWR7sN"
-        consumer_secret = "KUI0mNZVNnDZQ5qCDwTr8nqpQCaNkhzMU0fMOEpfX4GPcGBne6"
-        access_token = "404823005-NQ9LquakMRMgv6s7YZ4Cu9dwIQ8tSV3uatnKLrzM"
-        access_token_secret = "rGY8HuRtMJjlhknucByIp0hwhedA6s8gxblouHY9j5Lro"
+        consumer_key = #
+        consumer_secret = #
+        access_token = #
+        access_token_secret = #
 
         try:
             self.auth = OAuthHandler(consumer_key, consumer_secret)
